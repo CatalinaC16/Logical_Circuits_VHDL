@@ -1,1 +1,1 @@
-.tcl linguist-language=vhd
+*.tcl linguist-vendored=false
