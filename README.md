@@ -1,1 +1,1 @@
-Some knowledge deepening exercises in VHDL( the work I did to prepare for the Digital System Design course). There are some test benches for Basys3.
+Some knowledge deepening exercises in VHDL( the work I did to prepare for the Digital System Design course).
