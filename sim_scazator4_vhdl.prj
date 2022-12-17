@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../scazator.srcs/sources_1/new/scazator_1bit.vhd" \
+"../../../../scazator.srcs/sources_1/new/scazator_4biti.vhd" \
+"../../../../scazator.srcs/sim_1/new/sim_scazator4.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../sumator_scazator.srcs/sources_1/new/sumator_scazator.vhd" \
+"../../../../sumator_scazator.srcs/sim_1/new/sim_scazator_sumator.vhd" \
+
+# Do not sort compile order
+nosort

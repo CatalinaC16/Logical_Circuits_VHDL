@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../proiect2.srcs/sources_1/new/cascadare.vhd" \
+"../../../../proiect2.srcs/sources_1/new/num.vhd" \
+"../../../../proiect2.srcs/sources_1/new/numarator_min.vhd" \
+"../../../../../../porti_vhdl/or_3/or_3.srcs/sources_1/new/or_3.vhd" \
+"../../../../../project_countcresc/project_countcresc.srcs/sim_1/new/sim_timerr.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../convertor_bcd_to_excess3_struct.srcs/sources_1/new/add3_tovector.vhd" \
+"../../../../convertor_bcd_to_excess3_struct.srcs/sources_1/new/bcdToExcess3.vhd" \
+"../../../../convertor_bcd_to_excess3_struct.srcs/sim_1/new/sim_bcd.vhd" \
+
+# Do not sort compile order
+nosort

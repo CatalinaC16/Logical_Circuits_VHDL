@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../laborator_9.srcs/sources_1/new/filtru.vhd" \
+"../../../../laborator_9.srcs/sources_1/new/lab9.vhd" \
+
+# Do not sort compile order
+nosort

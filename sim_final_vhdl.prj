@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_countcresc.srcs/sources_1/new/desc_min.vhd" \
+"../../../../project_countcresc.srcs/sources_1/new/final.vhd" \
+"../../../../project_countcresc.srcs/sources_1/new/numarator_invers.vhd" \
+"../../../../project_countcresc.srcs/sources_1/new/numarator_minute.vhd" \
+"../../../../project_countcresc.srcs/sources_1/new/sec_desc.vhd" \
+"../../../../project_countcresc.srcs/sources_1/new/ultima_secunda.vhd" \
+"../../../../project_countcresc.srcs/sources_1/new/ultimul_minut.vhd" \
+"../../../../project_countcresc.srcs/sim_1/new/sim_final.vhd" \
+
+# Do not sort compile order
+nosort

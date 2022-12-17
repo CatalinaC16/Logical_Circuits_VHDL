@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cascadare_bistT.srcs/sources_1/new/bist_T.vhd" \
+"../../../../cascadare_bistT.srcs/sources_1/new/casc_bistT.vhd" \
+"../../../../cascadare_bistT.srcs/sim_1/new/sim_cascT.vhd" \
+
+# Do not sort compile order
+nosort

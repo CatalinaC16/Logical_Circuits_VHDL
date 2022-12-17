@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../proiect2/proiect2.srcs/sources_1/new/binar8_zecimal_binar4.vhd" \
+"../../../../intreg_numar.srcs/sim_1/new/sim_integer.vhd" \
+
+# Do not sort compile order
+nosort

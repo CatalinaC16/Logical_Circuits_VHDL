@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../semafor_2.srcs/sources_1/new/semafor_2.vhd" \
+"../../../../semafor_2.srcs/sim_1/new/sim_semafor.vhd" \
+
+# Do not sort compile order
+nosort
